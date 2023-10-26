@@ -8,5 +8,5 @@ Repository ini adalah bagian dari tes pertama dalam proses pendaftaran magang di
 
 ##Instalasi Melalui Download
 - Download project melalui link https://github.com/riskimeji/Dashboard-SIP-Tes1.git
-- buka folder Dashboard-SIP-Tes1
-- buka file index.html
+- masuk ke folder Dashboard-SIP-Tes1
+- buka file index.html yang ada didalam folder Dashboard-SIP-Tes1 
